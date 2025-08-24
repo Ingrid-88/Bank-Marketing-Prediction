@@ -49,7 +49,7 @@ Ver en Google Colab para explorar el código y resultados en tiempo real.
 
 ## Conclusión
 Este proyecto demuestra mi capacidad para combinar técnicas de machine learning con un enfoque orientado al negocio, abordando desafíos como el desbalanceo de datos y optimizando estrategias de marketing. Mi experiencia en finanzas (SAP FI) y transición a Data Analytics me permite generar soluciones que cumplen con normativas europeas como RGPD, aportando valor al sector financiero.
-## Contacto
 
-- **LinkedIn**: linkedin.com/in/ingridortizmoreno
-- **Email** : jobiso88@gmail.com
+## 📬 Contacto
+- [LinkedIn](https://www.linkedin.com/in/ingridortizmoreno/)  
+- jobiso88@gmail.com  

@@ -7,7 +7,7 @@ Este proyecto utiliza una red neuronal para predecir si un cliente suscribirá u
 ## Dataset
 
 * **Fuente** : UCI Machine Learning Repository (Bank Marketing Dataset).
-* **Descripción**: Contiene 45,211 registros de campañas de marketing telefónico con 16 características, incluyendo edad, empleo, estado civil, duración de llamada, entre otros. La variable objetivo (y) indica si el cliente suscribió un depósito a plazo (yes/no).
+* **Descripción**: Contiene 4,521 registros de campañas de marketing telefónico con 16 características, incluyendo edad, empleo, estado civil, duración de llamada, entre otros. La variable objetivo (y) indica si el cliente suscribió un depósito a plazo (yes/no).
 
 **Preprocesamiento** :
 * Manejo de desbalanceo mediante oversampling (muestreo con reemplazo de la clase minoritaria).
